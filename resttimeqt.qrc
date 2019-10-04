@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>languages/resttime-qt_es.qm</file>
+    </qresource>
+</RCC>
